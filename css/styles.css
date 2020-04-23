@@ -241,6 +241,11 @@ header {
   padding: 10px;
   margin: 0px auto 58px auto;
 }
+.see-other-partnert-btn:hover,
+.see-other-partnert-btn:focus {
+  background-color: rgb(255, 78, 80);
+  color: #ffffff;
+}
 @media (max-width: 767px) {
   .partner-item:not(:last-child) {
     margin-bottom: 28px;
