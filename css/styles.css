@@ -327,7 +327,7 @@ header {
   }
 }
 @media (max-width: 939px) {
-  .partner-item:not(:nth-last-child(-n + 2)) {
+  .partner-item:not(:nth-last-child(odd)) {
     margin-bottom: 56px;
   }
 }
