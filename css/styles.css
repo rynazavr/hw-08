@@ -246,6 +246,9 @@ header {
   background-color: rgb(255, 78, 80);
   color: #ffffff;
 }
+.partners-list {
+  margin-bottom: 26px;
+}
 @media (max-width: 767px) {
   .partner-item:not(:last-child) {
     margin-bottom: 28px;
